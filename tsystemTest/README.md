@@ -2,9 +2,11 @@ Author name : Andrey Klopov
 
 Contact: 13-fox@mail.ru
 
-    The solution is to be written using Java 1.8 only, external libraries are forbidden. 
-    You can add dependencies with scope "test" if it's needed to write new unit-tests.
-    The exam includes 3 tasks to be done: Calculator, Pyramid, and Subsequence.
+[ ![Codeship Status for 13Fox13/Java1](https://app.codeship.com/projects/04115de0-1fb9-0136-314d-5e55ac8d44fe/status?branch=master)](https://app.codeship.com/projects/285282)
+
+The solution is to be written using Java 1.8 only, external libraries are forbidden. 
+You can add dependencies with scope "test" if it's needed to write new unit-tests.
+The exam includes 3 tasks to be done: Calculator, Pyramid, and Subsequence.
 
 Task 1. Calculator
 
