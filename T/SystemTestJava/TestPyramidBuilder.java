@@ -1,4 +1,4 @@
-package tsystemtest;
+package T.SystemTestJava;
 
 import java.util.*;
 
@@ -7,7 +7,7 @@ import org.junit.Assert;
 
     // Task 2. Pyramid Builder
 
-public class PyramidBuilderTest {
+public class TestPyramidBuilder {
 
     // Пришлось написать отдельный класс для тестрирования различных пирамид
 

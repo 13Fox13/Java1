@@ -1,4 +1,4 @@
-package tsystemtest;
+package T.SystemTestJava;
 
 import java.text.DecimalFormat;
 import java.util.LinkedList;
